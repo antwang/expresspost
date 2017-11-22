@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    line-height: 2;
+    font-family: 'microsoft yahei';
+}
+p, input,label{
+    font-size: 14px;
+}
+header, section{
+    width: 800px;
+    margin: 0 auto;
+}
